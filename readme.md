@@ -88,4 +88,8 @@ Feel free to open issues or submit pull requests with improvements.
 
 ## License
 
-[Add your chosen license here]
+None
+
+---
+Raj Reddy
+https://github.com/neuralnet19
